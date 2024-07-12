@@ -20,7 +20,7 @@
 
 ## About me
 
-- 🌱 Biology is my heart 
+- 🕸️ I am interested in complex systems
 - 🏫 I am a high school teacher
 - 🎥 I love the cinema and coffe ☕
 - ❤️ If you want to create a community where we talk about art, science and programming, I invite you to connect with me ❤️
