@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Jassit0 </a> 👋  </h1>
+<h1 align="center">Hello, I'm Jacqueline <a href="https://aristi.dev">(Jassit0) </a> 👋  </h1>
 </div> 
 
 <div align="center">
@@ -20,8 +20,9 @@
 
 ## About me
 
-- 🕸️ I am interested in complex systems
-- 🏫 I am a high school teacher
+- 🏫 I'm a high school teacher
+- 💬 My passion is scientific dissemination
+- 🕸️ I'm interested in complex systems
 - 🎥 I love the cinema and coffe ☕
 - ❤️ If you want to create a community where we talk about art, science and programming, I invite you to connect with me ❤️
 
