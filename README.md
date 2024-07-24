@@ -25,5 +25,6 @@
 - 🕸️ I'm interested in complex systems
 - 🎥 I love the cinema and coffe ☕
 - ❤️ If you want to create a community where we talk about art, science and programming, I invite you to connect with me ❤️
+- 🖥️  See my portfolio at [MyPorfolio](https://jacquelinejasso.netlify.app/#proyectos)
 
 
